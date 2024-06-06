@@ -1,0 +1,223 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Average3",
+            "request": "launch",
+            "mainClass": "Average3",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Data",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Data1",
+            "request": "launch",
+            "mainClass": "Data1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Operator1",
+            "request": "launch",
+            "mainClass": "Operator1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "P2Text",
+            "request": "launch",
+            "mainClass": "P2Text",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Star1",
+            "request": "launch",
+            "mainClass": "Star1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Tax",
+            "request": "launch",
+            "mainClass": "Tax",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "TypePromotion",
+            "request": "launch",
+            "mainClass": "TypePromotion",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "TypePromotion2",
+            "request": "launch",
+            "mainClass": "TypePromotion2",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "if1",
+            "request": "launch",
+            "mainClass": "if1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "if2",
+            "request": "launch",
+            "mainClass": "if2",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "mmain",
+            "request": "launch",
+            "mainClass": "mmain",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "switchdays",
+            "request": "launch",
+            "mainClass": "switchdays",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "test4",
+            "request": "launch",
+            "mainClass": "test4",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "test5",
+            "request": "launch",
+            "mainClass": "test5",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "typeofexp",
+            "request": "launch",
+            "mainClass": "typeofexp",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "yashwant",
+            "request": "launch",
+            "mainClass": "yashwant",
+            "projectName": "Java_72da403b"
+        }
+    ]
+}

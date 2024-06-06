@@ -1,0 +1,14 @@
+public class main{
+    public static void main(String []args){
+        Scannner sc = new scanner(System.in);
+        int days =sc.next.Int();
+        switch(days){
+            case 1:
+            System.out.println("Monday");
+            case 2:
+            System.out.println("thuesday");
+            
+            
+        }
+    }
+}
